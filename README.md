@@ -1,2 +1,2 @@
-## Yeelight Screen
-    Basic application to change Yeelight colors based on what is currently playing on your monitor
+## Yeelight Ambiance
+    Application that changes light color in real time to match what is currently on screen
